@@ -6,6 +6,7 @@ public class GitPractice1 {
 		System.out.println("this is git class");
 		System.out.println("modifying");
 		System.out.println("checking");
+		System.out.println("added new line");
 	}
 
 }
